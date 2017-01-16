@@ -103,7 +103,7 @@ Review the following information before you start the upgrade:
 </tr>
 <tr class="even">
 <td align="left"><p>Upgrading from App-V 4.x</p></td>
-<td align="left"><p>You must first upgrade to App-V 5.0. You cannot upgrade directly from App-V 4.x to App-V 5.1. For more information, see:</p>
+<td align="left"><p>For more information, see:</p>
 <ul>
 <li><p>“Differences between App-V 4.6 and App-V 5.0” in [About App-V 5.0](about-app-v-50.md)</p></li>
 <li><p>[Planning for Migrating from a Previous Version of App-V](planning-for-migrating-from-a-previous-version-of-app-v.md)</p></li>
